@@ -1,0 +1,18 @@
+{
+  "name": "telechat-bot",
+  "version": "1.0.0",
+  "description": "Telegram AI Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telechatbot"
+  ],
+  "author": "Utkarsh Mishra",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.65.1",
+    "openai": "^4.29.2"
+  }
+}
